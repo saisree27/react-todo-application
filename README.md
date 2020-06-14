@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React To-do Application
+
+I created this project for the purpose of learning React. It is a simple to-do application which uses the Tailwind CSS framework for UI design. It also uses the react-particles-js package for a nice background with animated particles.<br />
+
+The rest of this file was automatically generated when initializing the project using `create-react-app`.
+
 ## Available Scripts
 
 In the project directory, you can run:
