@@ -176,6 +176,4 @@ function App() {
 
 export default App
 
-// To learn React, I used the following set of tutorial videos: https://egghead.io/courses/the-beginner-s-guide-to-react
-// As I was pretty unfamiliar with React, I used the following tutorial as a baseline for developing this todo application:
-// https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks
+//# sourceMappingURL=/src/App.js.map
